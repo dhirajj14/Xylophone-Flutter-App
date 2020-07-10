@@ -1,8 +1,14 @@
-# Xylophone 🎹
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/54300222/87111703-9c509680-c22f-11ea-9c11-c81d9cdca186.png" height="100px" />
+
+<h1 align="center"> Xylophone 🎹 </h1>
+
+</p>
 
 A music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-
+<p align="center"><img src="https://user-images.githubusercontent.com/54300222/87111498-22b8a880-c22f-11ea-8f1e-0340a07abed3.png" height="400px"/></p>
 
 ## What I have learned
 
